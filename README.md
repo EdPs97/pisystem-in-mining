@@ -32,7 +32,7 @@ These processes were handled within PI System modules such as ICU, SMT, PI AF, a
 
 ## PI Vision
 
-After cleaning and restructuring tags, I created a **replica of the Crushing Plant SCADA** in PI Vision. This allowed users to:
+After cleaning and restructuring tags, I created a **replica of the Crushing Plant SCADA** in PI Vision and **Production Dashboards**. This allowed users to:
 
 * Access plant data without overloading the SCADA server via AnyDesk.
 * Use dashboards for production values, availability, utilization, energy consumption, flows, grades, and stockpile levels.
