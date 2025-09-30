@@ -9,8 +9,8 @@ Additionally, the **PI Asset Framework (PI AF)** — the structure where analyse
 The work carried out focused on:
 
 * Developing **real-time dashboards** in PI Vision.
-* Implementing new AVEVA technologies such as **CONNECT**.
 * Organizing PI AF for consistent and reliable reporting.
+* Implementing new AVEVA technologies such as **CONNECT**.
 * Supporting executive and operational decision-making with better-structured data.
 
 ---
