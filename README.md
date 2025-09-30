@@ -27,7 +27,7 @@ Not all variables were processed the same way:
 
 These processes were handled within PI System modules such as ICU, SMT, PI AF, and PI Web API.
 
-*Diagram with data infrastructure and flow here*
+![pisystem-in-mining](images/SIREP.png)
 
 ---
 
