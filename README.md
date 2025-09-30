@@ -72,7 +72,7 @@ This deployment required overcoming data connectivity challenges, mapping proces
 
 ## Official Reporting
 
-My in-depth knowledge of the data infrastructure proved valuable when troubleshooting discrepancies in official reporting. Any change in the calculations could be discussed and duly change if required. 
+My in-depth knowledge of the data infrastructure proved valuable when troubleshooting discrepancies in official reporting. Any change in the calculations could be discussed and updated as needed.  
 
 
 
