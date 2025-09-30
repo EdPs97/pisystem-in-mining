@@ -10,6 +10,7 @@ The work carried out focused on:
 
 * Developing **real-time dashboards** in PI Vision.
 * Organizing PI AF for consistent and reliable reporting.
+* Setting up automatic notifications triggered by low productivity.
 * Implementing new AVEVA technologies such as **CONNECT**.
 * Supporting executive and operational decision-making with better-structured data.
 
