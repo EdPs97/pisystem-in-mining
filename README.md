@@ -30,7 +30,7 @@ These processes were handled within PI System modules such as ICU, SMT, PI AF, a
 
 ![pisystem-in-mining](images/DataFlowDiagram.png)
 
-
+*Diagram of Data Flow at the company.
 
 ---
 
