@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-logo img {
+  max-width: 120px;   /* adjust as needed */
+  height: auto;
+}
