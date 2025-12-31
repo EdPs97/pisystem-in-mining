@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.site-logo img {
-  max-width: 120px;   /* adjust as needed */
+.wrapper header img {
+  max-width: 140px;   /* change to 120, 150, etc. */
   height: auto;
 }
